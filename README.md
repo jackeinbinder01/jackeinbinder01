@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jack Einbinder</h1>
-<h3 align="center">An experiencer Senior Data Analyst in the Greater Boston Area</h3>
+<h1 align="left">Hi 👋, I'm Jack Einbinder</h1>
+<h3 align="left">An experiencer Senior Data Analyst in the Greater Boston Area</h3>
 
-- 📫 How to reach me **jackeinbinder01@gmail.com**
+- 📫 Email me @ **jackeinbinder01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
