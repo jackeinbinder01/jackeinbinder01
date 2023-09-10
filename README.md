@@ -1,5 +1,5 @@
 <h1 align="left">Hi There👋</h1>
-<h3 align="left">I'm Jack Einbinder, an experienced Senior Data Analyst in the Greater Boston Area</h3>
+<h2 align="left">I'm Jack Einbinder, an experienced Senior Data Analyst in the Greater Boston Area</h2>
 
 - 📫 Email me @ **jackeinbinder01@gmail.com**
 
