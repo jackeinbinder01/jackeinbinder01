@@ -3,9 +3,7 @@
 <p align="left">I use this profile to show off my projects and to connect with the broader community</p>
 <p align="left">Feel free to take a look through my projects pinned below!</p>
 
-
-
-- 📫 Email me @ **jackeinbinder01@gmail.com**
+Email me @ **jackeinbinder01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
