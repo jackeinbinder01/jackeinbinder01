@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Jack Einbinder👋</h1>
-<h3 align="left">I'm a Senior Data Analyst in the Greater Boston Area</h3>
+<h3 align="left">I'm a Computer Science student in the Greater Boston Area</h3>
 <p align="left">I use this profile to show off my projects and to connect with the broader community</p>
 <p align="left">Feel free to take a look through my projects pinned below!</p>
 
