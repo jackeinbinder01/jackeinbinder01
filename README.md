@@ -33,9 +33,14 @@ Email me @ **jackeinbinder01@gmail.com**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 
-<!-- SQL -->
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+<!-- MS SQL -->
+<a href="https://docs.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="MS SQL" width="40" height="40"/>
+</a>
+
+<!-- Google BigQuery -->
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Google BigQuery" width="40" height="40"/>
 </a>
 
 <!-- HTML -->
