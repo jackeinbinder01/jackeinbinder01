@@ -33,9 +33,9 @@ Email me @ **jackeinbinder01@gmail.com**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 
-<!-- MS SQL -->
+<!-- MSSQL -->
 <a href="https://docs.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="MS SQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Microsoft_SQL_Server_logo.png" alt="MS SQL" width="40" height="40"/>
 </a>
 
 <!-- Google BigQuery -->
