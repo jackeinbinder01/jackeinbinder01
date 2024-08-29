@@ -35,7 +35,7 @@ Email me @ **jackeinbinder01@gmail.com**
 
 <!-- MSSQL -->
 <a href="https://docs.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer">
-  <img src="[https://www.svgrepo.com/svg/303229/microsoft-sql-server-logo](https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg)" alt="MS SQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="MS SQL" width="40" height="40"/>
 </a>
 
 <!-- Google BigQuery -->
